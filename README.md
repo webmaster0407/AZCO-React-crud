@@ -26,7 +26,7 @@ These instructions will get you a copy of the project up and running on your loc
 - In here, enable auto fix on save.
 Once thats done, close the ESLint tab that is open, and press Command-Shift-P on Mac, or Ctrl-Shift-P on windows, and type ‘Git Clone’ into the box that appears and hit enter.
 - In the box that then comes up, enter:
-<https://github.com/bradwindy/mern-stack-template>
+<https://github.com/odincovaprofit/AZCO-React-crud-/mern-stack-template>
 - Then press enter, then once that is done, click open in the bottom right.
 - Once the project loads up, on both Mac and windows, press Ctrl-BACKTICK (the key next to the number 1 on your kb). This opens terminal and is a super useful shortcut :)
 - Checkout working by typing: `git checkout --track origin/working`
